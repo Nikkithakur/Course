@@ -4,9 +4,6 @@
 # Log files
 *.log
 
-# BlueJ files
-*.ctxt
-
 # Eclipse
 .settings/
 bin/
