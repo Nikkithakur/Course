@@ -1,0 +1,86 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Eclipse
+.settings/
+bin/
+tmp/
+.metadata/
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+target/
+
+# NetBeans
+nbproject/
+dist/
+nbdist/
+build/
+nbbuild/
+nbactions.xml
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+.mvn/
+.m2/
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+target/
+mvnw
+mvnw.cmd
+
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Thumbnails
+._*
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.tar.xz
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
